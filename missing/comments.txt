@@ -1,0 +1,29 @@
+Thank You for feedback Nikolay
+
+Here I put two files that were used to build db.
+First one is named: dataCleaningAndConversion.py
+During parsing I look twotags and checked values. If there is someting I need to fix then I do it, otherwise I omit faulty record as wrong one. (I could also fix the data or simply delete it, but after visualization I took decision to delete it, since there are literally few records with unclean data, so no loss for general ide having ~400k of records.
+
+Second file is dbinsert.py  and simply inserts json file into mongoDb using json library.
+
+I hope this was the missing data and that You are satisfied. 
+
+Currently I am focusing on third project in R. 
+
+
+with regards
+
+Pawel Mrozowski
+
+
+ 
+Pawel Mrozowski
+IT 
+43-300 Bielsko-Biala, Poland
+ul. Grazynskiego 141
+Phone +48 33 8134139
+Mobile +48 728 951 840 
+pawel.mrozowski@avioaero.com
+www.avioaero.com
+www.aviopolska.pl
+
